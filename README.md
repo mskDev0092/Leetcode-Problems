@@ -4,7 +4,7 @@
 | --- |
 |1. Two Sum |
 |2. Palindrome Number | 
-|3.  | 
+|3. Roman to Integer  | 
 
 # Leet Code Solved Problems  👨🏻‍💻
 
@@ -17,3 +17,7 @@
 ## 2. Leetcode’s Problem Palindrome Number Solution in (JavaScript).
 
 - Repository URL: [https://github.com/mskDev0092/Leet-Code-Tutorial-Palindrome_Number](https://github.com/mskDev0092/Leet-Code-Tutorial-Palindrome_Number)
+
+## 3. Leetcode’s Problem Roman to Integer Solution in (JavaScript).
+
+- Repository URL: [https://github.com/mskDev0092/Leet-Code-Tutorial-Roman_Numerals](https://github.com/mskDev0092/Leet-Code-Tutorial-Roman_Numerals)
